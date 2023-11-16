@@ -1,0 +1,10 @@
+#container {
+  background-color: antiquewhite;
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+h2,
+h3 {
+  color: brown;
+}
